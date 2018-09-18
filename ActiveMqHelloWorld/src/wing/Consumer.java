@@ -10,7 +10,7 @@ import javax.jms.TextMessage;
 
 import org.apache.activemq.ActiveMQConnection;
 import org.apache.activemq.ActiveMQConnectionFactory;
-
+//20180918
 public class Consumer {
 	private static final String USERNAME = ActiveMQConnection.DEFAULT_USER;//默认连接用户名
     private static final String PASSWORD = ActiveMQConnection.DEFAULT_PASSWORD;//默认连接密码
